@@ -55,14 +55,14 @@ The application will now be available at `http://localhost:8000`.
 
 ## Usage
 
-To use Meetup Planner, open your web browser and go to `http://localhost:8000`. From there, you can sign up or log in to your account, create and join meetups, and search for meetups.
+To use Employee Register, open your web browser and go to `http://localhost:8000`. From there, you can sign up or log in to your account, create and join meetups, and search for meetups.
 
 ## Contributing
 
 If you're interested in contributing to Meetup-Planner-Using-Django, please follow these steps:
 
-1. Fork the repository: https://github.com/samsorrahman/My_Python_Django_Projects/tree/main/Meetup%20Planner
-2. Clone your forked repository: `git clone https://github.com/samsorrahman/My_Python_Django_Projects/tree/main/Meetup%20Planner`
+1. Fork the repository: https://github.com/samsorrahman/Employee_Register_system_with_python_Django
+2. Clone your forked repository: `git clone https://github.com/samsorrahman/Employee_Register_system_with_python_Django.git`
 3. Create a new branch for your changes: `git checkout -b my-new-feature`
 4. Make your changes and commit them: `git commit -am 'Add some feature'`
 5. Push your changes to GitHub: `git push origin my-new-feature`
@@ -70,4 +70,4 @@ If you're interested in contributing to Meetup-Planner-Using-Django, please foll
 
 ## License
 
-Meetup Planner is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
+Employee Register is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
