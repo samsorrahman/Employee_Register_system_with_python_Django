@@ -1,0 +1,19 @@
+name: Add contributor images to README
+
+on:
+  push:
+    branches:
+      - my_Contributers
+
+jobs:
+  add-contributor-images:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Install dependencies
+      run: npm install
+    - name: Add contributor images to README
+      uses: amejiarosario/contributors-img@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
