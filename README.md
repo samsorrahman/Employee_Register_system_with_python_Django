@@ -1,9 +1,9 @@
 # Employee_Register_system_with_python_Django
-# Meetup-Planner-Using-Django-Framework
 
   <h1 color=#F7CC18FF> Hi there, I'm Samsor Rahman👋<a href="#"></h1>
   
-Welcome to Meetup Planner! This is a web application built with Django that helps you plan your meetups with ease.
+Welcome to Employee Register System built in using python Django
+
 
 ## Table of Contents
 
@@ -15,9 +15,15 @@ Welcome to Meetup Planner! This is a web application built with Django that help
 
 ## Features
 
-- Users can sign up and log in to the application.
-- Users can join and register for meetups.
-- Users can view a list of all upcoming meetups.
+ The application typically includes the following features:
+
+1. Employee registration: Users can create new employee records by providing basic information such as fullname, mobile, emp_code, and position.
+
+2. Employee listing: Users can view a list of all employees that have been registered in the system. The list may include basic information such as fullname and mobile.
+
+3. Employee update: Users can update the information of an employee by editing their details. This includes updating their fullname, mobile, emp_code, and position.
+
+4. Employee delete: Users can delete an employee record from the system if they are no longer employed.
 
 ## Installation
 
