@@ -57,8 +57,7 @@ The application will now be available at `http://localhost:8000`.
 
 To use Employee Register, open your web browser and go to `http://localhost:8000`. From there, you can sign up or log in to your account, create and join meetups, and search for meetups.
 
-## Contributing
-
+## Contributions Welcome❤️
 If you're interested in contributing to Meetup-Planner-Using-Django, please follow these steps:
 
 1. Fork the repository: https://github.com/samsorrahman/Employee_Register_system_with_python_Django
@@ -67,6 +66,29 @@ If you're interested in contributing to Meetup-Planner-Using-Django, please foll
 4. Make your changes and commit them: `git commit -am 'Add some feature'`
 5. Push your changes to GitHub: `git push origin my-new-feature`
 6. Submit a pull request.
+<a href = "https://github.com/samsorrahman/Employee_Register_system_with_python_Django">
+  <img src = "https://contrib.rocks/image?repo=saadhaxxan/DSA-Bootcamp-Cpp"/>
+</a>
+  
+## Connect with me
+  <a href="https://twitter.com/samsor_rahman">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  </a>&ensp;
+  <a href="https://www.linkedin.com/in//">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>&ensp;
+  <a href="https://www.instagram.com/samsor_rahman/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>&ensp;
+  <a href="https://.com">
+  <img width="30px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
+  </a>
+
+
+
+
+ 
+
 
 ## License
 
