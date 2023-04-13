@@ -27,15 +27,15 @@ Welcome to Employee Register System built in using python Django
 
 ## Installation
 
-To get started with Meetup Planner, you need to have Python and pip installed on your system. Then, follow these steps:
+To get started with Employee Resgister System, you need to have Python and pip installed on your system. Then, follow these steps:
 
 1. Clone this repository:
 ```python
-git clone https://github.com/samsorrahman/My_Python_Django_Projects/tree/main/Meetup%20Planner
+git clone https://github.com/samsorrahman/Employee_Register_system_with_python_Django.git
 ```
 2. Navigate to the project directory:
 ```python
-cd meetup-planner
+cd employee_project
 ```
 3. Install the required packages:
 ```python
@@ -45,10 +45,7 @@ pip install -r requirements.txt
 ```python
 python manage.py migrate
 ```
-5. Create a superuser account:
-```python
-python manage.py createsuperuser
-```
+
 6. Run the development server:
 ```python
 python manage.py runserver
